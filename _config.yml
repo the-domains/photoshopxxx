@@ -23,9 +23,3 @@ navigation:
       http://www.pornhubpremium.com/premium_signup?join=13&ats=eyJhIjo4NTI5NCwiYyI6NDQyODkwNzgsIm4iOjMsInMiOjIsImUiOjQyMiwicCI6MTF9
     name: PornHub Premium
     type: external
-  - id: >-
-      http://www.papi.com/tour/home/?ats=eyJhIjo4NTI5NCwiYyI6NDQyODkwOTEsIm4iOjEzLCJzIjoyNywiZSI6MTA0LCJwIjoyfQ%3D%3D
-    url: >-
-      http://www.papi.com/tour/home/?ats=eyJhIjo4NTI5NCwiYyI6NDQyODkwOTEsIm4iOjEzLCJzIjoyNywiZSI6MTA0LCJwIjoyfQ%3D%3D
-    name: Papi.com
-    type: external
