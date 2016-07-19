@@ -1,14 +1,14 @@
-layout_spectrum: 0.4931197178084403
-typography_spectrum: 0.11665603704750538
+layout_spectrum: 0.2281646670307964
+typography_spectrum: 0.6145547246560454
 color:
-  brandStrength: 0.39723827433772385
-  lightness: 0.12606355058960617
-  saturation: 0.8422852598596364
-  rhythmicContrast: 0.43604157748632133
+  brandStrength: 0.3583290034439415
+  lightness: 0.717321791453287
+  saturation: 0.30017148121260107
+  rhythmicContrast: 0.2786434006411582
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: PhotoshopXXX
