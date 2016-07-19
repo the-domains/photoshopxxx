@@ -1,5 +1,6 @@
-layout_spectrum: 0.2281646670307964
 typography_spectrum: 0.6145547246560454
+content_rating:
+  adult: false
 color:
   brandStrength: 0.3583290034439415
   lightness: 0.717321791453287
@@ -11,6 +12,9 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+layout_spectrum: 0.2281646670307964
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd18a56d-d749-4095-8d64-da9501692c4c.png
 name: PhotoshopXXX
 navigation:
   - id: >-
