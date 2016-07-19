@@ -12,4 +12,10 @@ color:
     - '#01B0F0'
     - '#AEEE00'
 name: PhotoshopXXX
-navigation: []
+navigation:
+  - id: >-
+      http://www.pornhubpremium.com/premium_signup?join=13&ats=eyJhIjo4NTI5NCwiYyI6NDQyODkwNzgsIm4iOjMsInMiOjIsImUiOjQyMiwicCI6MTF9
+    url: >-
+      http://www.pornhubpremium.com/premium_signup?join=13&ats=eyJhIjo4NTI5NCwiYyI6NDQyODkwNzgsIm4iOjMsInMiOjIsImUiOjQyMiwicCI6MTF9
+    name: PornHub Premium
+    type: external
