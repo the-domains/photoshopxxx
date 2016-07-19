@@ -12,8 +12,4 @@ color:
     - '#01B0F0'
     - '#AEEE00'
 name: PhotoshopXXX
-navigation:
-  - id: www.sex.com
-    url: www.sex.com
-    name: sex
-    type: external
+navigation: []
