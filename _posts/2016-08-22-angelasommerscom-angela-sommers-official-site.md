@@ -26,10 +26,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://angelasommers.com/galleries/white-satin-bed/?nats=MjAwMjE4LjEuOC4xMS4wLjIwMzMwLjAuMC4w
+  http://angelasommers.com/galleries/sexy-butt-shots/?nats=MjAwMjE4LjEuOC4xMS4wLjIwMzMxLjAuMC4w
 title: AngelaSommers.com - Angela Sommers Official Site
-datePublished: '2016-08-22T15:00:09.007Z'
-dateModified: '2016-08-22T15:00:01.000Z'
+datePublished: '2016-08-22T15:02:17.666Z'
+dateModified: '2016-08-22T15:00:46.667Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-22-angelasommerscom-angela-sommers-official-site.md
@@ -40,4 +40,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>AngelaSommers.com - Angela Sommers Official Site</h1><p>AngelaSommers.com contains nudity and explicit content which is intended for adults only 18 years of age or older. All models 18 years of age or older - U.S. Federal Labelling 18-2257 Records Information: http://www.AngelaSommers.com/2257.html Copyright © AngelaSommers.com - Webmasters</p><img src="http://angelasommers.com/galleries/white-satin-bed/tn05.jpg" /></article>
+<article style=""><h1>AngelaSommers.com - Angela Sommers Official Site</h1><p>AngelaSommers.com contains nudity and explicit content which is intended for adults only 18 years of age or older. All models 18 years of age or older - U.S. Federal Labelling 18-2257 Records Information: http://www.AngelaSommers.com/2257.html Copyright © AngelaSommers.com - Webmasters</p><img src="http://angelasommers.com/galleries/sexy-butt-shots/tn04.jpg" /></article>
